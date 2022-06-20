@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Travel Website developed by React and TypeScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![截屏2022-06-13 14 27 51](https://user-images.githubusercontent.com/45728518/173292737-80ca642f-dd09-42d2-887d-8fa3ebe70d37.png)
+
+
+
+
+## Getting Started with npm install 
+
+To run the project you need to clone the whole repository, then in the project directory, you can run `npm install` to install all dependencies.
 
 ## Available Scripts
 
