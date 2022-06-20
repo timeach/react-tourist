@@ -1,8 +1,6 @@
 # Travel Website developed by React and TypeScript
 
-![截屏2022-06-13 14 27 51](https://user-images.githubusercontent.com/45728518/173292737-80ca642f-dd09-42d2-887d-8fa3ebe70d37.png)
-
-
+![截屏2022-06-20 20 31 48](https://user-images.githubusercontent.com/45728518/174602352-276e39c2-eee3-4668-b193-335d32222fa1.png)
 
 
 ## Getting Started with npm install 
