@@ -9,7 +9,7 @@ import rootStore from "./redux/store";
 import axios from "axios";
 import { PersistGate } from "redux-persist/integration/react"
 
-axios.defaults.headers['x-icode'] = 'J78D5E668EC7D2F11';
+axios.defaults.headers['x-icode'] = 'J17F9B6E878C54BCD';
 
 ReactDOM.render(
   <React.StrictMode>
