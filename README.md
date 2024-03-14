@@ -1,4 +1,4 @@
-# Travel Website developed by React and TypeScript
+# Tourist Website developed by React and TypeScript
 
 ![截屏2022-06-20 20 31 48](https://user-images.githubusercontent.com/45728518/174602352-276e39c2-eee3-4668-b193-335d32222fa1.png)
 
